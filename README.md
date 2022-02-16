@@ -29,3 +29,6 @@ For more clearance : https://youtu.be/23QQ1Hz2-jY
 
 ★ Run the command: ```python war.py```
 ## Guess Game
+Guess game is to guess the correct position of an object. Player has to guess the correct number in 0,1 and 2 where the object was hidden in those positions. If the player guesses the correct positiion, the player wins🏆. If the player fails to guess the correct position, the player looses the game and thus correct position of the object will be revealed.
+
+★ Run the command: ```python guess.py```
