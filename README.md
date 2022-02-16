@@ -17,4 +17,5 @@ Blackjack is a card-based game played at casinos. The participants in this game 
 - After the dealer is done, the final results are decided — if the dealer busts, then any player who did not bust earlier wins his or her bet. If the dealer does not bust, then the dealer’s total is compared to each player’s.
 - For any player whose total is greater than the dealer’s, he or she wins money. For any player whose total is less than the dealer’s, he or she loses money. No money is exchanged in the event of a tie.
 
-★ Run the command: ```python tictactoe.py```
+★ Run the command: ```python blackjack.py```
+## War
