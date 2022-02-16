@@ -26,4 +26,6 @@ War(also known as Battle in the United Kingdom) is a card game typically played 
 - Finally, Those who collect the 52 cards at first is declared as the winner🥇!!!
 
 For more clearance : https://youtu.be/23QQ1Hz2-jY
+
+★ Run the command: ```python war.py```
 ## Guess Game
